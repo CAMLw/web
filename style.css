@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 14px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #3c3d3f; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #b2b4b5; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #000; 
+  }
+
+
+section#contact a{
+    text-decoration: none;
+}
+
+section#contact a:visited{
+    text-decoration: none;
+}
+
+section#contact a:hover{
+    text-decoration: none;
+    color: #000;
+}
+
+@media only screen and (max-width: 991px) {
+    #mainNav {
+        background-color: rgba(221, 221, 221, 0.151);
+    }
+}
