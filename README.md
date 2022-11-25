@@ -1,4 +1,3 @@
-# web
 <h1>Website for CamAI</h1>
 
 <br>
