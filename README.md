@@ -2,3 +2,4 @@
 
 <br>
 <p>Currently hosted at https://camai.netlify.app/ </p>
+<p>Bootstrap speedrun</p>
